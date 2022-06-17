@@ -8,7 +8,7 @@
 from itemadapter import ItemAdapter
 import pymysql
 import logging
-
+# 初始化日志模块
 logger = logging.getLogger(name=__name__)
 
 
